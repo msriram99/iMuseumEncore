@@ -13,6 +13,7 @@
 		36A902801EA0EF5300E2BE47 /* iMuseumEncore.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 36A9027E1EA0EF5300E2BE47 /* iMuseumEncore.xcdatamodeld */; };
 		36A902821EA0EF5300E2BE47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36A902811EA0EF5300E2BE47 /* Assets.xcassets */; };
 		36A902851EA0EF5300E2BE47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36A902831EA0EF5300E2BE47 /* LaunchScreen.storyboard */; };
+		36A9028D1EA0EF6E00E2BE47 /* MuseumEncore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A9028C1EA0EF6E00E2BE47 /* MuseumEncore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		36A902811EA0EF5300E2BE47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36A902841EA0EF5300E2BE47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		36A902861EA0EF5300E2BE47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36A9028C1EA0EF6E00E2BE47 /* MuseumEncore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MuseumEncore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				36A902831EA0EF5300E2BE47 /* LaunchScreen.storyboard */,
 				36A902861EA0EF5300E2BE47 /* Info.plist */,
 				36A9027E1EA0EF5300E2BE47 /* iMuseumEncore.xcdatamodeld */,
+				36A9028C1EA0EF6E00E2BE47 /* MuseumEncore.swift */,
 			);
 			path = iMuseumEncore;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				36A9027A1EA0EF5300E2BE47 /* ViewController.swift in Sources */,
+				36A9028D1EA0EF6E00E2BE47 /* MuseumEncore.swift in Sources */,
 				36A902781EA0EF5300E2BE47 /* AppDelegate.swift in Sources */,
 				36A902801EA0EF5300E2BE47 /* iMuseumEncore.xcdatamodeld in Sources */,
 			);
